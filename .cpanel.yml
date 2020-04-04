@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/ekacathu/public_html/simple-quote-page/
+    - export DEPLOYPATH=/home/ekacathu/public_html/
     - /bin/cp * $DEPLOYPATH
