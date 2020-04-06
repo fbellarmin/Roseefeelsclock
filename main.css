@@ -1,32 +1,22 @@
+* { margin: 0; padding: 0; }
 html, body {
-  margin: 0;
-  padding: 0;
-  font-size: 100%;
-  line-height: 1.5;
+  height: 100%;
 }
 
-body {
-  width: 100%;
-  height: 100vh;
-  background: url('assets/freedom.jpg') no-repeat center;
-  background-size: cover;
-  color: #333;
-}
-
-.wrapper {
-  padding-top: 4rem;
-  width: 90%;
-  margin: 0 auto;
+#clock {
+  font-family: 'Lora', serif;
   text-align: center;
+  position: relative;
+  top: 50%;
+  font-size: 4rem;
+  margin-top: -2rem;
 }
 
-.quote {
-  font-family: 'Arial', sans-serif;
-  font-size: 2.5rem; 
-}
-
-.author {
-  font-family: 'Crimson Text', serif;
-  font-size: 1.5rem;
-  font-style: italic;
+#text {
+  font-family: 'Lora', serif;
+  text-align: center;
+  position: relative;
+  top: 50%;
+  font-size: 2rem;
+  margin-top: -8rem;
 }
