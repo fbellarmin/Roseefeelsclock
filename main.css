@@ -12,6 +12,7 @@ html, body {
   margin-top: -2rem;
 }
 
+<<<<<<< HEAD
 #text {
   font-family: 'Lora', serif;
   text-align: center;
@@ -19,4 +20,15 @@ html, body {
   top: 50%;
   font-size: 2rem;
   margin-top: -8rem;
+=======
+.quote {
+  font-family: 'Crimson Text', sans-serif;
+  font-size: 2.5rem; 
+}
+
+.author {
+  font-family: 'Crimson Text', serif;
+  font-size: 1.5rem;
+  font-style: italic;
+>>>>>>> parent of bab2232... Update main.css
 }
